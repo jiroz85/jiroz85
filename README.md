@@ -13,35 +13,23 @@ I mainly work with **JavaScript, TypeScript, React, Node.js, NestJS, PostgreSQL,
 * University and business management systems
 * Database-driven applications
 * Responsive and user-friendly interfaces
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+### Frontend
 
-**Frontend**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
-* HTML, CSS, JavaScript
-* React
-* TypeScript
-* Tailwind CSS
-* Bootstrap
+### Backend
 
-**Backend**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
 
-* Node.js
-* Express.js
-* NestJS
+### Database
 
-**Database**
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,prisma)](https://skillicons.dev)
 
-* PostgreSQL
-* MySQL
-* Prisma
+### Tools & Platforms
 
-**Tools**
-
-* Git & GitHub
-* Docker
-* REST APIs
-* VS Code
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,vercel)](https://skillicons.dev)
 
 ### 📌 Featured Projects
 
