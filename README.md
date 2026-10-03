@@ -37,12 +37,13 @@ I mainly work with **JavaScript, TypeScript, React, Node.js, NestJS, PostgreSQL,
 - **Attendify** - Attendance management SaaS application.
 - **Ethnova** - Marketplace web application.
 - **Kenbon Restaurant** - Restaurant web application.
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jiroz85&show_icons=true&hide_border=true" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jiroz85&layout=compact&hide_border=true" height="180" />
+  <img
+    src="https://streak-stats.demolab.com/?user=jiroz85&theme=dark&hide_border=false"
+    alt="Jiregna's GitHub Streak"
+  />
 </p>
 
 ### 🌱 Currently Learning
