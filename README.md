@@ -33,18 +33,25 @@ I mainly work with **JavaScript, TypeScript, React, Node.js, NestJS, PostgreSQL,
 
 ### 📌 Featured Projects
 
-* **BHU Clearance System** - Full-stack university clearance management system built with React, NestJS, PostgreSQL, and Prisma.
-* **Attendify** - Attendance management SaaS application.
-* **Ethnova** - Marketplace web application.
-* **Kenbon Restaurant** - Restaurant web application.
+- **BHU Clearance System** - Full-stack university clearance management system built with React, NestJS, PostgreSQL, and Prisma.
+- **Attendify** - Attendance management SaaS application.
+- **Ethnova** - Marketplace web application.
+- **Kenbon Restaurant** - Restaurant web application.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=jiroz85&show_icons=true&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jiroz85&layout=compact&hide_border=true" height="180" />
+</p>
 
 ### 🌱 Currently Learning
 
-* Next.js
-* Advanced NestJS
-* PostgreSQL & Prisma
-* Cloud deployment
-* Software architecture and design patterns
+- Next.js
+- Advanced NestJS
+- PostgreSQL & Prisma
+- Cloud deployment
+- Software architecture and design patterns
 
 ### 📫 Connect With Me
 
