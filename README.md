@@ -15,22 +15,9 @@ I mainly work with **JavaScript, TypeScript, React, Node.js, NestJS, PostgreSQL,
 * Responsive and user-friendly interfaces
 ## 🛠️ Tech Stack
 
-### Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,bootstrap)](https://skillicons.dev)
-
-### Backend
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
-
-### Database
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,prisma)](https://skillicons.dev)
-
-### Tools & Platforms
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,vercel)](https://skillicons.dev)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,bootstrap,nodejs,express,nestjs,postgres,mysql,prisma,git,github,docker,vscode,vercel" />
+</p>
 ### 📌 Featured Projects
 
 - **BHU Clearance System** - Full-stack university clearance management system built with React, NestJS, PostgreSQL, and Prisma.
