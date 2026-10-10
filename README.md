@@ -1,8 +1,6 @@
 # Hi, I'm Jiregna Meseret 👋
 
-### 4th-Year Software Engineering Student | Full-Stack Developer
-
-I'm a Software Engineering student at Bule Hora University focused on building practical full-stack web applications, backend systems, and database-driven solutions.
+Im a Software Engineer and Full-Stack Developer interested in building practical, user-focused web and mobile applications.
 
 I mainly work with **JavaScript, TypeScript, React, Node.js, NestJS, PostgreSQL, and MySQL**.
 
